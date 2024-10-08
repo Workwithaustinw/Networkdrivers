@@ -128,12 +128,3 @@ sudo lshw -C network
 - [Official Realtek Drivers for Windows](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software)
 - [Intel Wireless Drivers & Software](https://www.intel.com/content/www/us/en/support/products/189347/network-and-i-o/wireless-networking.html)
 
----
-
-## License
-
-This guide is open-source and licensed under the [MIT License](LICENSE).
-
----
-
-This `README.md` provides clear steps for users to install network drivers on both Windows and Linux systems. Let me know if you'd like to customize it further!
